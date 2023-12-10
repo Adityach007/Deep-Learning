@@ -68,3 +68,13 @@ Further Analysis:
 This model achieves a basic level of accuracy on the Fashion MNIST dataset.
 The training and validation accuracy curves show that the model learns over time, but further optimization might be required for better performance.
 Exploring different hyperparameters, such as the number of neurons, learning rate, or
+
+## Contribution
+
+Contributions are welcome! If you have a new use case to add or improvements to existing code, feel free to submit a pull request. Please follow the contribution guidelines outlined in the CONTRIBUTING.md file.
+
+## Feedback
+
+Your feedback is valuable. If you have suggestions, ideas, or encounter any issues, please open an issue or reach out through the contact information provided in the repository.
+
+Let's dive into the exciting world of deep learning together! 🌟

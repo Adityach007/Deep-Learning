@@ -28,4 +28,4 @@ To run this project, the following dependencies are needed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-review-binary-classification.git
+   git clone https://github.com/adityach007/Deep-Learning/CODES/Movie_review.git
